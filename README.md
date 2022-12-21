@@ -21,4 +21,4 @@ Conta 2:
  - senha: 2222
  
  
-Deploy [online](https://bankist-application-guilherme.netlify.app)
+Deploy [online](https://bankist-app-guilherme.netlify.app)
